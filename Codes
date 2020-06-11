@@ -1,4 +1,15 @@
 [
-    ["lolwat", 50, "Cash"],
-    ["eyyo", 100, "Cash"]
+    ["AIRPORT", 15000, "Cash"],
+    ["SUSHI", 20000, "Cash"],
+    ["BOATS", 20000, "Cash"],
+    ["CHIP", 10000, "Cash"],
+    ["MOBILE", 15000, "Cash"],
+    ["ATDISCORD", 15000, "Cash"],
+    ["FREEMOOLAH", 10000, "Cash"],
+    ["YACHTPARTY", 15000, "Cash"],
+    ["10MIL", 15000, "Cash"],
+    ["FLYHIGH", 15000, "Cash"],
+    ["25KLIKES", 15000, "Cash"],
+    ["100KFAVES", 15000, "Cash"],
+    ["S3LKRONS", 25000, "Cash"]
 ]
