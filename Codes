@@ -13,5 +13,6 @@
     ["UPDATE5", 50000, "Cash"],
     ["INSTA", 50000, "Cash"],
     ["BLOXYCOLA", 30000, "Cash"],
-    ["CLIFFHANGER", 30000, "Cash"]
+    ["CLIFFHANGER", 30000, "Cash"],
+    ["ERACE", 29999, "Cash"]
 ]
