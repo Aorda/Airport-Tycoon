@@ -5,9 +5,6 @@
     ["ATDISCORD", 15000, "Cash"],
     ["MEGAWHALE", 40000, "Cash"],
     ["FREEMOOLAH", 40000, "Cash"],
-    ["YACHTPARTY", 15000, "Cash"],
-    ["10MIL", 15000, "Cash"],
-    ["FLYHIGH", 25000, "Cash"],
     ["MITACCEPTME", 150000, "Cash"],
     ["ROCKET", 50000, "Cash"],
     ["UPDATE5", 50000, "Cash"],
@@ -15,5 +12,6 @@
     ["BLOXYCOLA", 30000, "Cash"],
     ["CLIFFHANGER", 30000, "Cash"],
     ["ERACE", 29999, "Cash"],
-    ["XBOX", 50000, "Cash"]
+    ["XBOX", 50000, "Cash"],
+    ["100MIL", 100000, "Cash"]
 ]
