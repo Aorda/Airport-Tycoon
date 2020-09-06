@@ -1,6 +1,7 @@
 [
 
 	{
+		"ID": 1,
 		"Title": "",
 		"Description": "",
 		"Type": "AmountPurchases",
@@ -10,6 +11,7 @@
 	},
 	
 	{
+		"ID": 2,
 		"Title": "",
 		"Description": "",
 		"Type": "AmountPurchases",
@@ -19,6 +21,7 @@
 	},
 	
 	{
+		"ID": 3,
 		"Title": "",
 		"Description": "",
 		"Type": "AmountDroppers",
@@ -28,6 +31,7 @@
 	},
 	
 	{	
+		"ID": 4,
 		"Title": "First Mile",
 		"Description": "Travel a mile by plane",
 		"Type": "AmountDistance",
@@ -37,6 +41,7 @@
 	},
 	
 	{
+		"ID": 5,
 		"Title": "Secret Cave",
 		"Description": "Find the secret cave in the Airport Tycoon universe",
 		"Type": "Discovery",
