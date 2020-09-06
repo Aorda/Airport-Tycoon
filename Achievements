@@ -1,52 +1,52 @@
 [
 
 	[
-		ID = 1,
-		Title = "",
+		ID: 1,
+		Title: "",
 		Description = "",
-		Type = "AmountPurchases",
-		Data = [10],
-		Reward = 1000,
-		End = 0
+		Type: "AmountPurchases",
+		Data: [10],
+		Reward: 1000,
+		End: 0
 	],
 	
 	[
-		ID = 2,
-		Title = "",
-		Description = "",
-		Type = "AmountPurchases",
-		Data = [100],
-		Reward = 2500,
-		End = 0
+		ID: 2,
+		Title: "",
+		Description: "",
+		Type: "AmountPurchases",
+		Data: [100],
+		Reward: 2500,
+		End: 0
 	],
 	
 	[
-		ID = 3,
-		Title = "",
-		Description = "",
-		Type = "AmountDroppers",
-		Data = [100],
-		Reward = 2500,
-		End = 0
+		ID: 3,
+		Title: "",
+		Description: "",
+		Type: "AmountDroppers",
+		Data: [100],
+		Reward: 2500,
+		End: 0
 	],
 	
-	[	ID = 4,
-		Title = "First Mile",
-		Description = "Travel a mile by plane",
-		Type = "AmountDistance",
-		Data = [5750],
-		Reward = 2500,
-		End = 0
+	[	ID: 4,
+		Title: "First Mile",
+		Description: "Travel a mile by plane",
+		Type: "AmountDistance",
+		Data: [5750],
+		Reward: 2500,
+		End: 0
 	],
 	
 	[
-		ID = 5,
-		Title = "Secret Cave",
-		Description = "Find the secret cave in the Airport Tycoon universe",
-		Type = "Discovery",
-		Data = ["Cave"],
-		Reward = 1000,
-		End = 1630831974
+		ID: 5,
+		Title: "Secret Cave",
+		Description: "Find the secret cave in the Airport Tycoon universe",
+		Type: "Discovery",
+		Data: ["Cave"],
+		Reward: 1000,
+		End: 1630831974
 	]
 	
 ]
