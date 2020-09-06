@@ -3,7 +3,7 @@
 	[
 		ID: 1,
 		Title: "",
-		Description = "",
+		Description: "",
 		Type: "AmountPurchases",
 		Data: [10],
 		Reward: 1000,
