@@ -64,6 +64,18 @@
 		"Data": ["Cave"],
 		"Reward": 1000,
 		"End": 1630831974
+	},
+	
+	
+	{
+		"ID": 6,
+		"Title": "Time Up",
+		"Description": "test test test",
+		"Icon": 5004287417,
+		"Type": "Discovery",
+		"Data": ["Cave"],
+		"Reward": 1000,
+		"End": 1599955254
 	}
 	
 ]
