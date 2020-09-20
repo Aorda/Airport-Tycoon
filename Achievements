@@ -56,26 +56,14 @@
 	},
 	
 	{
-		"ID": 6,
-		"Title": "Time Up",
-		"Description": "test test test",
+		"ID": 8,
+		"Title": "",
+		"Description": "",
 		"Icon": 5004287417,
-		"Type": "Discovery",
-		"Data": ["Cave"],
+		"Type": "ItemPurchased",
+		"Data": ["TwinProp"],
 		"Reward": 1000,
-		"End": 1630831974
-	},
-	
-	
-	{
-		"ID": 7,
-		"Title": "Time Up",
-		"Description": "test test test",
-		"Icon": 5004287417,
-		"Type": "Discovery",
-		"Data": ["Cave"],
-		"Reward": 1000,
-		"End": 1599955254
+		"End": 0
 	}
 	
 ]
