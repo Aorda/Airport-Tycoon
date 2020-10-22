@@ -12,5 +12,7 @@
     ["BLOXYCOLA", 30000, "Cash"],
     ["CLIFFHANGER", 30000, "Cash"],
     ["ERACE", 29999, "Cash"],
-    ["WARTHOG", 50000, "Cash"]
+    ["WARTHOG", 50000, "Cash"],
+    ["HALLOW", 50000, "Cash"],
+    ["TREAT", 50000, "Cash"]
 ]
