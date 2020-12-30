@@ -2,7 +2,7 @@
     ["100WHALES", 20000, "Cash"],
     ["FIREBALL", 30000, "Cash"],
     ["CHIP", 10000, "Cash"],
-    ["ATDISCORD", 15000, "Cash"],
+    ["ATDISCORD", 30000, "Cash"],
     ["MEGAWHALE", 40000, "Cash"],
     ["FREEMOOLAH", 40000, "Cash"],
     ["MITACCEPTME", 150000, "Cash"],
@@ -10,9 +10,7 @@
     ["INSTA", 50000, "Cash"],
     ["BLOXYCOLA", 30000, "Cash"],
     ["CLIFFHANGER", 30000, "Cash"],
-    ["ERACE", 29999, "Cash"],
-    ["UPDATE8", 200000, "Cash"],
     ["OSCAR", 123456, "Cash"],
     ["CANDYCANE", 100000, "Cash"],
-    ["MERRYXMAS", 100000, "Cash"]
+    ["2021", 202100, "Cash"]
 ]
