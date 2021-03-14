@@ -13,5 +13,6 @@
     ["OSCAR", 123456, "Cash"],
     ["CANDYCANE", 100000, "Cash"],
     ["200MIL", 200000, "Cash"],
-    ["BLIMP", 200000, "Cash"]
+    ["BLIMP", 200000, "Cash"],
+    ["WHALETUBE", 100000, "Cash"]
 ]
