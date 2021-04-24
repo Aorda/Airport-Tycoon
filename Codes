@@ -15,5 +15,6 @@
     ["200MIL", 200000, "Cash"],
     ["BLIMP", 200000, "Cash"],
     ["WHALETUBE", 100000, "Cash"],
-    ["UPDATE9", 200000, "Cash"]
+    ["UPDATE9", 200000, "Cash"],
+    ["CASHPASS", 222222, "Cash"]
 ]
