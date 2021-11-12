@@ -16,6 +16,5 @@
     ["UPDATE9", 200000, "Cash"],
     ["CASHPASS", 222222, "Cash"],
     ["HOTEL", 200000, "Cash"],
-    ["340KCASH", 340000, "Cash"],
-    ["355KFREE", 355000, "Cash"]
+    ["365KCASH", 365000, "Cash"]
 ]
