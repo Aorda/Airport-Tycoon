@@ -17,5 +17,6 @@
     ["CASHPASS", 222222, "Cash"],
     ["HOTEL", 200000, "Cash"],
     ["365KCASH", 365000, "Cash"],
-    ["BONUS", 200000, "Cash"]
+    ["BONUS", 200000, "Cash"],
+    ["MILLION", 1000000, "Cash"]
 ]
