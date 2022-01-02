@@ -18,5 +18,6 @@
     ["NEWYEAR", 200000, "Cash"],
     ["BONUS", 200000, "Cash"],
     ["MILLION", 1000000, "Cash"],
-    ["CUSTOM", 4000000, "Cash"]
+    ["CUSTOM", 4000000, "Cash"],
+    ["TEST1", 1000000, "Cash"]
 ]
