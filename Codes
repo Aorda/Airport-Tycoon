@@ -11,13 +11,10 @@
     ["BLOXYCOLA", 30000, "Cash"],
     ["CLIFFHANGER", 30000, "Cash"],
     ["OSCAR", 123456, "Cash"],
-    ["BLIMP", 200000, "Cash"],
     ["WHALETUBE", 100000, "Cash"],
     ["CASHPASS", 222222, "Cash"],
-    ["XMAS", 300000, "Cash"],
-    ["NEWYEAR", 200000, "Cash"],
     ["BONUS", 200000, "Cash"],
     ["MILLION", 1000000, "Cash"],
     ["CUSTOM", 4000000, "Cash"],
-    ["TEST1", 1000000, "Cash"]
+    ["FREECASH", 200000, "Cash"]
 ]
