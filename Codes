@@ -15,6 +15,6 @@
     ["CASHPASS", 222222, "Cash"],
     ["BONUS", 200000, "Cash"],
     ["MILLION", 1000000, "Cash"],
-    ["CUSTOM", 4000000, "Cash"],
+    ["CUSTOM", 1000000, "Cash"],
     ["FREECASH", 200000, "Cash"]
 ]
