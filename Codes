@@ -16,5 +16,6 @@
     ["BONUS", 200000, "Cash"],
     ["MILLION", 1000000, "Cash"],
     ["CUSTOM", 1000000, "Cash"],
-    ["FREECASH", 200000, "Cash"]
+    ["FREECASH", 200000, "Cash"],
+    ["CUSTOM2", 500000, "Cash"]
 ]
