@@ -21,6 +21,6 @@
     ["NEWCODE", 300000, "Cash"],
     ["fromflor", 200000, "Cash"],
     ["FOOL", 111111, "Cash"],
-    ["TEST", 20000, "Gems"],
+    ["FREEGEMS", 10000, "Gems"],
     ["TEST2", 200000, "Gems"]
 ]
