@@ -20,5 +20,6 @@
     ["NEWCODE", 300000, "Cash"],
     ["fromflor", 300000, "Cash"],
     ["FOOL", 111111, "Cash"],
-    ["PRIZE", 200000, "Cash"]
+    ["PRIZE", 200000, "Cash"], 
+    ["SHUTTLE", 200000, "Cash"]
 ]
