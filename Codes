@@ -23,5 +23,7 @@
     ["gems2", 500000, "Gems"],
     ["FOOL", 111111, "Cash"],
     ["PRIZE", 200000, "Cash"], 
-    ["SHUTTLE", 200000, "Cash"]
+    ["SHUTTLE", 200000, "Cash"],
+    ["GIFT", 200000, "Cash"]
+
 ]
