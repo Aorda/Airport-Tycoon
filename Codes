@@ -24,6 +24,7 @@
     ["FOOL", 111111, "Cash"],
     ["PRIZE", 200000, "Cash"], 
     ["SHUTTLE", 200000, "Cash"],
-    ["GIFT", 200000, "Cash"]
+    ["GIFT", 200000, "Cash"],
+    ["MERRY", 250000, "Cash"]
 
 ]
