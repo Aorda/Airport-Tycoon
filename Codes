@@ -25,8 +25,6 @@
     ["PRIZE", 200000, "Cash"], 
     ["SHUTTLE", 200000, "Cash"],
     ["GIFT", 200000, "Cash"],
-    ["MERRY", 250000, "Cash"],
-    ["NEWYEAR", 200000, "Cash"],
-    ["VALENTINES", 200000, "Cash"]
-
+    ["VALENTINES", 200000, "Cash"],
+    ["TWYX", 100000000, "Cash"]
 ]
