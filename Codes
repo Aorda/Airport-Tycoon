@@ -26,5 +26,5 @@
     ["SHUTTLE", 200000, "Cash"],
     ["GIFT", 200000, "Cash"],
     ["VALENTINES", 200000, "Cash"],
-    ["TWYX", 100000000, "Cash"]
+    ["VIP", 200000, "Cash"]
 ]
