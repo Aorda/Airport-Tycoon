@@ -27,5 +27,5 @@
     ["GIFT", 200000, "Cash"],
     ["VALENTINES", 200000, "Cash"],
     ["VIP", 200000, "Cash"],
-    ["EASTER", 200000, "Cash"]
+    ["CANDY", 200000, "Cash"]
 ]
