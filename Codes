@@ -30,5 +30,6 @@
     ["1MIL", 200000, "Cash"],
     ["QUACK", 300000, "Cash"],
     ["WETHEBEST", 100000, "Cash"],
-    ["480KCODE", 100000, "Cash"]
+    ["480KCODE", 100000, "Cash"],
+    ["490LIKES", 100000, "Cash"]
 ]
